@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hello!
 
-<!--
-**CJonesCode/CJonesCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sometimes I make useful stuff, and I enjoy Backend Development. I'm an avid gamer and spend most of my dev time off-the-record figuring things out through debugging 🐜 or 🛠 reversing.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech I've used 💻
+- AWS
+- C#
+- DynamoDB
+- HTML/JS/CSS
+- Java
+- Lua
+- Python
+- SQL
